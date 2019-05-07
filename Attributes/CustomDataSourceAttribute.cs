@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MWM.AISTOXT.TeamFoundationServer.TestManager;
+using TeamFoundationServer.TestManager;
 
 namespace SeleniumTestExample.Attributes
 {
