@@ -3,7 +3,7 @@ using Microsoft.TeamFoundation.TestManagement.Client;
 using System;
 using System.Data;
 
-namespace MWM.AISTOXT.TeamFoundationServer.TestManager
+namespace TeamFoundationServer.TestManager
 {
     public class TestManagerServices
     {
